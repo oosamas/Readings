@@ -39,5 +39,5 @@ The list of all books within the database are presented with the word train. Onc
 THe website then uses the API to collect information about the book through goodreads.org to showcase the number of ratings on the website and the average number of ratings it has recieved.
 
 You many now give your own rating and review. But if you come back and try to review it again, it wont't let you redo it.
-![index.html greets the user](https://github.com/oosamas/Readings/blob/master/screenshots/image5.png "index.html")
+![index.html greets the user](https://github.com/oosamas/Readings/blob/master/screenshots/image3.png "index.html")
 
