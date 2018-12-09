@@ -33,7 +33,11 @@ When the user makes a login, if the passwords dont match, the in-forms warning c
 
 ![index.html greets the user](https://github.com/oosamas/Readings/blob/master/screenshots/image2.png "index.html with information")
 
-When the user logs in to,
-![index.html greets the user](https://github.com/oosamas/Readings/blob/master/screenshots/image3.png "index.html")
+When the user logs in to, he may search for a book by Title, ISBN, author, or a word within the title.
 ![index.html greets the user](https://github.com/oosamas/Readings/blob/master/screenshots/image4.png "index.html")
+The list of all books within the database are presented with the word train. Once you click on the search result
+THe website then uses the API to collect information about the book through goodreads.org to showcase the number of ratings on the website and the average number of ratings it has recieved.
+
+You many now give your own rating and review. But if you come back and try to review it again, it wont't let you redo it.
+![index.html greets the user](https://github.com/oosamas/Readings/blob/master/screenshots/image5.png "index.html")
 
