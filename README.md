@@ -1,9 +1,10 @@
-Name: Osama Saddique
-Online Demo:  https://youtu.be/ZDl-CAcFrzA
-Project Title: Readings- a book review database
-Class: CCPS 530
-Instructor: Ghassem Tofighi
+#### Name: Osama Saddique
+#### Online Demo:  [https://youtu.be/ZDl-CAcFrzA] (https://youtu.be/ZDl-CAcFrzA)
+#### Project Title: Readings- a book review database
+#### Class: CCPS 530
+####  Instructor: Ghassem Tofighi
 
+Note: THe books.csv file has been taken from Harvard's CS50 Web development using Python and Javasript course on Edx.org.
 When you begin my web app, you will be redirected to the login page where you can sign up.
 The password has to be 8 characters long and must be re-typed. A JavaScript function checks that the passwords match during the registration period.
 
