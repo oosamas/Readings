@@ -4,13 +4,10 @@
 #### Class: CCPS 530
 ####  Instructor: Ghassem Tofighi
 
-Note: THe books.csv file has been taken from Harvard's CS50 Web development using Python and Javasript course on Edx.org.
 When you begin my web app, you will be redirected to the login page where you can sign up.
 The password has to be 8 characters long and must be re-typed. A JavaScript function checks that the passwords match during the registration period.
 
-This webapp builds on the API of Goodreads.com. I have incorporated a database of 5000 books. If a user searches for a book that is within the database he/she can review the book, see the average rating, and number of reviews. The ratings information is essentially the API doing its job.
-If you choose to use the GET method for requesting index.html,as in the normal method of using the website (by navigating through it), you will be able to see a simple quote and thereon, search the database. Otherwise, if you choose to use POST method, that is,
-entering the url_for a specific book, you will be re-directed to a list of the book-search.
+This webapp builds on the API of Goodreads.com. I have incorporated a database of 5000 books (Note: The books.csv file has been taken from Harvard's CS50 Web development using Python and Javasript course on Edx.org). If a user searches for a book that is within the database he/she can review the book, see the average rating, and number of reviews. The ratings information is essentially the API doing its job.
 
 Searching and choosing a book takes you to books.html, wherein layout.html is extended and author, year, ISBN are loaded.
 You may review a book, only once, if you try to do it again, you will be told otherwise. Below the review is a link to API that, once clicked, will generate and redirect you to a json file with all data from this app--for the books that you individually have reviewed, etc.
@@ -30,4 +27,4 @@ All html files, use a combination of jinja2, CSS, Javascript, and of course boot
 Most of the layout is done using bootstrap (including the login forms, buttons, etc), however, tiny snippets, where a color of text, or different size was required, I have used individual styling using CSS or even HTML.
 While I did use jinja, I think the app could have been more optimized had I relieved more heavily on it, instead of using other tools.
 
-Thank you for reading this.
+![index.html greets the user](https://github.com/oosamas/Readings/screenshots/image1.png "index.html")
