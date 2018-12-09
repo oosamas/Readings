@@ -13,7 +13,7 @@ Searching and choosing a book takes you to books.html, wherein layout.html is ex
 You may review a book, only once, if you try to do it again, you will be told otherwise. Below the review is a link to API that, once clicked, will generate and redirect you to a json file with all data from this app--for the books that you individually have reviewed, etc.
 The log out button is at the top right corner, which will end session and take you back.
 
-####  Workings:
+### Workings:
 
 application.py is the main file for this app. It is built in Flask, Python. It uses sessions, sqlalchemy, and markup, among other things. It contains all the routes to different html files, and queries to databases, etc. The database could be locally hosted using DATABASE_URL, but this app uses heroku to host the database.
 
