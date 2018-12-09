@@ -1,5 +1,5 @@
 #### Name: Osama Saddique
-#### Online Demo:  [https://youtu.be/ZDl-CAcFrzA] (https://youtu.be/ZDl-CAcFrzA)
+#### Online Demo:  https://youtu.be/ZDl-CAcFrzA
 #### Project Title: Readings- a book review database
 #### Class: CCPS 530
 ####  Instructor: Ghassem Tofighi
