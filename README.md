@@ -27,4 +27,13 @@ All html files, use a combination of jinja2, CSS, Javascript, and of course boot
 Most of the layout is done using bootstrap (including the login forms, buttons, etc), however, tiny snippets, where a color of text, or different size was required, I have used individual styling using CSS or even HTML.
 While I did use jinja, I think the app could have been more optimized had I relieved more heavily on it, instead of using other tools.
 
-![index.html greets the user](https://github.com/oosamas/Readings/screenshots/image1.png "index.html")
+![index.html greets the user](https://github.com/oosamas/Readings/blob/master/screenshots/image1.png "index.html")
+
+When the user makes a login, if the passwords dont match, the in-forms warning color light up. The passwords have to be 8 chars long.
+
+![index.html greets the user](https://github.com/oosamas/Readings/blob/master/screenshots/image2.png "index.html with information")
+
+When the user logs in to,
+![index.html greets the user](https://github.com/oosamas/Readings/blob/master/screenshots/image3.png "index.html")
+![index.html greets the user](https://github.com/oosamas/Readings/blob/master/screenshots/image4.png "index.html")
+
